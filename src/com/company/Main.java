@@ -15,5 +15,11 @@ public class Main {
         Solana.temp="22222e";
 
 
+
+        Planet1 narwal=new Planet1();
+        narwal.color="green";
+        narwal.size="2333333";
+
+
     }
 }
