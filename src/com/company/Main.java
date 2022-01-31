@@ -16,9 +16,15 @@ public class Main {
 
 
 
+        planet2 platypus=new planet2();
+        platypus.color="pink";
+        platypus.size="34455555";
+
+
         Planet1 narwal=new Planet1();
         narwal.color="green";
         narwal.size="2333333";
+
 
 
     }
