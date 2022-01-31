@@ -12,7 +12,7 @@ public class Main {
         SUN Solana=new SUN();
         Solana.Heat="66667889";
         Solana.radius="657483hfjdj";
-        Solana.temp="22222e";
+        Solana.temp=22222;
 
 
 
@@ -26,10 +26,17 @@ public class Main {
         narwal.size="2333333";
 
 
+
         moon2 montero=new moon2();
         montero.color="red";
         montero.radius="646465";
         montero.lightintesity="464646lunos";
+
+
+        moon1 montero= new moon1();
+        montero1.color="blue";
+        montero1.radius="344455";
+        montero1.lightintesity="56667789999";
 
 
     }
