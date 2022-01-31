@@ -26,6 +26,11 @@ public class Main {
         narwal.size="2333333";
 
 
+        moon2 montero=new moon2();
+        montero.color="red";
+        montero.radius="646465";
+        montero.lightintesity="464646lunos";
+
 
     }
 }
